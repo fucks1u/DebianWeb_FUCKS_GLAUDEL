@@ -51,17 +51,17 @@ h1 {
 }
 
 h2 {
-	color: #1b1e7b;
+	color: #3876A8;
 	font: 600 2.125rem/2.75rem "Poppins", sans-serif;
 }
 
 h3 {
-	color: #1b1e7b;
+	color: #3876A8;
 	font: 600 1.75rem/2.375rem "Poppins", sans-serif;
 }
 
 h4 {
-	color: #1b1e7b;
+	color: #3876A8;
 	font: 600 1.5rem/2.125rem "Poppins", sans-serif;
 }
 
@@ -116,7 +116,7 @@ a:hover {
 }
 
 .blue {
-	color: #026cfe;
+	color: #3876A8;
 }
 
 .bg-gray {
@@ -139,9 +139,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #026cfe;
+	border: 1px solid #3876A8;
 	border-radius: 32px;
-	background-color: #026cfe;
+	background-color: #3876A8;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -151,18 +151,18 @@ a:hover {
 }
 
 .btn-solid-reg:hover {
-	border: 1px solid #026cfe;
+	border: 1px solid #3876A8;
 	background-color: transparent;
-	color: #026cfe;
+	color: #3876A8;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.5rem 2.5rem 1.5rem 2.5rem;
-	border: 1px solid #026cfe;
+	border: 1px solid #3876A8;
 	border-radius: 32px;
-	background-color: #026cfe;
+	background-color: #3876A8;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -172,9 +172,9 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-	border: 1px solid #026cfe;
+	border: 1px solid #3876A8;
 	background-color: transparent;
-	color: #026cfe;
+	color: #3876A8;
 	text-decoration: none;
 }
 
@@ -356,9 +356,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.25rem;
-	border: 1px solid #026cfe;
+	border: 1px solid #3876A8;
 	border-radius: 32px;
-	background-color: #026cfe;
+	background-color: #3876A8;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -368,9 +368,9 @@ input[type='checkbox'] {
 }
 
 .form-control-submit-button:hover {
-	border: 1px solid #026cfe;
+	border: 1px solid #3876A8;
 	background-color: transparent;
-	color: #026cfe;
+	color: #3876A8;
 }
 
 /* Fade-move Animation For Details Lightbox - Magnific Popup */
@@ -420,7 +420,7 @@ input[type='checkbox'] {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #1b1e7b;
+	background-color: #3876A8;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -455,7 +455,7 @@ input[type='checkbox'] {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: #1b1e7b;
+	background-color: #3876A8;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
@@ -512,7 +512,7 @@ input[type='checkbox'] {
 }
 
 .navbar .fa-stack:hover .fa-stack-1x {
-	color: #026cfe;
+	color: #3876A8;
 }
 
 .navbar .navbar-toggler {
@@ -530,7 +530,7 @@ input[type='checkbox'] {
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 17rem;
-	background: #1b1e7b;
+	background: #3876A8;
 }
 
 .header .text-container {
@@ -681,7 +681,7 @@ input[type='checkbox'] {
 	margin-top: 0.125rem;
 	margin-bottom: 1rem;
 	margin-left: 0;
-	border-top: 0.125rem solid #026cfe;
+	border-top: 0.125rem solid #3876A8;
 }
 
 .lightbox-basic h4 {
@@ -694,7 +694,7 @@ input[type='checkbox'] {
 }
 
 .lightbox-basic .list-unstyled .fas {
-	color: #026cfe;
+	color: #3876A8;
 	font-size: 0.875rem;
 	line-height: 1.75rem;
 }
@@ -718,7 +718,7 @@ input[type='checkbox'] {
 }
 
 .lightbox-basic .btn-solid-reg.mfp-close:hover {
-	color: #026cfe;
+	color: #3876A8;
 }
 /* end of action Button */
 
@@ -795,7 +795,7 @@ input[type='checkbox'] {
 
 .basic-4 .fas {
 	margin-bottom: 1.5rem;
-	color: #026cfe;
+	color: #3876A8;
 	font-size: 3.25rem;
 }
 
@@ -936,7 +936,7 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack .fa-stack-1x {
-    color: #1b1e7b;
+    color: #3876A8;
 	transition: all 0.2s ease;
 }
 
@@ -950,7 +950,7 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack:hover .fa-stack-2x {
-    color: #1b1e7b;
+    color: #3876A8;
 }
 
 
@@ -985,13 +985,13 @@ a.back-to-top {
 	width: 42px;
 	height: 42px;
 	border-radius: 30px;
-	background: #1b1e7b url("../images/up-arrow.png") no-repeat center 47%;
+	background: #3876A8 url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 18px 18px;
 	text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-	background-color: #026cfe; 
+	background-color: #3876A8; 
 }
 
 
@@ -1072,7 +1072,7 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.625rem;
 		padding-bottom: 0.625rem;
-		background-color: #1b1e7b;
+		background-color: #3876A8;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 
