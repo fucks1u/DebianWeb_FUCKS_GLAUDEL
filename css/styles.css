@@ -789,6 +789,8 @@ input[type='checkbox'] {
 /*     Features     */
 /********************/
 .basic-4 {
+	text-align: center;
+	margin-top: 4.5rem;
 	padding-top: 4.5rem;
 	padding-bottom: 2.5rem;
 }
