@@ -197,6 +197,12 @@ img {
   border-style: none;
 }
 
+.linux-fluid{
+  vertical-align: middle;
+  border-style: none;
+  margin-right: 50px;
+  margin-top: 50px;
+}
 svg {
   overflow: hidden;
   vertical-align: middle;
