@@ -599,7 +599,7 @@ input[type='checkbox'] {
 /*********************/
 .basic-1 {
 	padding-top: 2rem;
-	padding-bottom: 3.75rem;
+	padding-bottom: 1rem;
 }
 
 .basic-1 .text-container {
@@ -610,16 +610,64 @@ input[type='checkbox'] {
 	margin-bottom: 1rem;
 }
 
-.basic-1 .p-large {
-	margin-bottom: 2.25rem;
+@media screen {
+	.basic-1 {
+		padding-top: 4rem;
+	}	
 }
 
-.basic-1 img {
-	width: 110px;
-	margin-bottom: 0.75rem;
-	border-radius: 50%;
+.div_images {
+	margin: 0 auto;
+	width:790px;
+	height:220px;
+	padding-top:20px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom: 20px;
+}
+#st-box {
+	float:left;
+	width:180px;
+	height:160px;
+	background-color:white;
+}
+#st-box img{
+	width: 180px;
+	height: 160px;
+	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+}
+#st-box img:hover{
+	transform:scale(1.5);
 }
 
+#nd-box {
+	float:left;
+	width:180px;
+	height:160px;
+	background-color:white; 
+	margin-left:110px;
+}
+#nd-box img{
+	width: 180px;
+	height: 160px;
+	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+}#nd-box img:hover{
+	transform:scale(1.5);
+}
+
+#rd-box {
+	float:right;
+	width:180px;
+	height:160px;
+	background-color:white;
+}
+#rd-box img{
+	width: 180px;
+	height: 160px;
+	box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+}#rd-box img:hover{
+	transform:scale(1.5);
+}
 
 /*********************/
 /*     Details 1     */
@@ -1066,7 +1114,6 @@ a:hover.back-to-top {
 	/* Navigation */
 	.navbar {
 		padding-top: 1.75rem;
-		background-color: transparent;
 		box-shadow: none;
 		transition: all 0.2s;
 	}
