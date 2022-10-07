@@ -670,7 +670,7 @@ input[type='checkbox'] {
 
 .div_images {
 	margin: 0 auto;
-	width:790px auto;
+	width:790px; /* width:790px auto; */
 	height:220px;
 	padding-top:20px;
 	padding-left:15px;
