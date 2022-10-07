@@ -668,6 +668,10 @@ input[type='checkbox'] {
 	}
 }
 
+.actu{
+	text-decoration: underline;
+}
+
 .div_images {
 	margin: 0 auto;
 	width:790px; /* width:790px auto; */
