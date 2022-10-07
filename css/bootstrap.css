@@ -195,6 +195,8 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+    width: 100%;
+    height: auto;
 }
 
 .linux-fluid{
@@ -259,6 +261,15 @@ textarea {
 button,
 input {
   overflow: visible;
+  background: #0066A2;
+  color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 50px;
+width: 150px;
+font-family: "Open Sans";
+text-shadow: none;
+border-radius: 10px;
 }
 
 button,
