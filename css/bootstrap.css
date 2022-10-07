@@ -203,6 +203,13 @@ img {
   margin-right: 50px;
   margin-top: 50px;
 }
+
+.debian-fluid{
+    vertical-align: middle;
+  border-style: none;
+  margin-right: 50px;
+  margin-top: 10px;
+}
 svg {
   overflow: hidden;
   vertical-align: middle;
@@ -477,7 +484,8 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  margin-top: 150px;
+  max-width: 400px;
   height: auto;
 }
 
